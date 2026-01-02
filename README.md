@@ -136,9 +136,9 @@ This is a **7-phase implementation project**:
 
 ### Step 1: Understand the Problem
 Read the documentation in this repo:
-- [SKYTABLE_RELIABILITY_ISSUES.md](./SKYTABLE_RELIABILITY_ISSUES.md) - Detailed technical analysis
-- [SKYTABLE_IMPLEMENTATION_GUIDE.md](./SKYTABLE_IMPLEMENTATION_GUIDE.md) - Implementation roadmap
-- [GITHUB_DISCUSSION_SUMMARY.md](./GITHUB_DISCUSSION_SUMMARY.md) - Quick reference
+- [SKYTABLE_RELIABILITY_ISSUES.md](https://github.com/Pilsertech/Seeking-Vouluntier-for-SKYTABLE-DB/blob/main/docs/SKYTABLE_RELIABILITY_ISSUES.md) - Detailed technical analysis
+- [SKYTABLE_IMPLEMENTATION_GUIDE.md](https://github.com/Pilsertech/Seeking-Vouluntier-for-SKYTABLE-DB/blob/main/docs/SKYTABLE_IMPLEMENTATION_GUIDE.md) - Implementation roadmap
+- [GITHUB_DISCUSSION_SUMMARY.md](https://github.com/Pilsertech/Seeking-Vouluntier-for-SKYTABLE-DB/blob/main/docs/GITHUB_DISCUSSION_SUMMARY.md) - Quick reference
 
 **Time to read**: 1-2 hours for full understanding
 
@@ -177,8 +177,8 @@ Contributors will be:
 ## 📞 Communication
 
 ### Get Help
-- 📧 Issues & Discussions: [GitHub Issues](https://github.com/Pilsertech/Seeking-Vouluntier-for-SKYTABLE-DB/issues)
-- 💬 Questions: Create a discussion post
+- 📧 Issues & Discussions: [GitHub Issues](https://github.com/Pilsertech/Seeking-Vouluntier-for-SKYTABLE-DB/issues) / [Discussions](https://github.com/Pilsertech/Seeking-Vouluntier-for-SKYTABLE-DB/discussions)
+- 💬 Questions: [Create a discussion post](https://github.com/Pilsertech/Seeking-Vouluntier-for-SKYTABLE-DB/discussions/new)
 - 🤝 Collaboration: Tag @maintainers in your PR
 
 ### Community
