@@ -136,9 +136,9 @@ This is a **7-phase implementation project**:
 
 ### Step 1: Understand the Problem
 Read the documentation in this repo:
-- [SKYTABLE_RELIABILITY_ISSUES.md](docs/SKYTABLE_RELIABILITY_ISSUES.md) - Detailed technical analysis
-- [SKYTABLE_IMPLEMENTATION_GUIDE.md](docs/SKYTABLE_IMPLEMENTATION_GUIDE.md) - Implementation roadmap
-- [GITHUB_DISCUSSION_SUMMARY.md](docs/GITHUB_DISCUSSION_SUMMARY.md) - Quick reference
+- [SKYTABLE_RELIABILITY_ISSUES.md](./SKYTABLE_RELIABILITY_ISSUES.md) - Detailed technical analysis
+- [SKYTABLE_IMPLEMENTATION_GUIDE.md](./SKYTABLE_IMPLEMENTATION_GUIDE.md) - Implementation roadmap
+- [GITHUB_DISCUSSION_SUMMARY.md](./GITHUB_DISCUSSION_SUMMARY.md) - Quick reference
 
 **Time to read**: 1-2 hours for full understanding
 
