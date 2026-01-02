@@ -199,9 +199,9 @@ This is a community-driven project. Everyone's voice matters:
 - [Crash Consistency](https://research.cs.wisc.edu/adsl/Publications/crash-consistency-sosp11.pdf)
 
 **Skytable Source Code:**
-- [Fractal Manager](skytable-source/server/src/engine/fractal/mgr.rs)
-- [Journal Layer](skytable-source/server/src/engine/storage/v2/raw/journal/raw/mod.rs)
-- [Transaction System](skytable-source/server/src/engine/txn/)
+- [Fractal Manager](https://github.com/skytable/skytable/blob/main/server/src/engine/fractal/mgr.rs)
+- [Journal Layer](https://github.com/skytable/skytable/blob/main/server/src/engine/storage/v2/raw/journal/raw/mod.rs)
+- [Transaction System](https://github.com/skytable/skytable/tree/main/server/src/engine/txn/)
 
 **Related Projects:**
 - [SQLite WAL](https://www.sqlite.org/wal.html) - How SQLite handles durability
